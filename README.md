@@ -198,19 +198,20 @@ This dashboard offers an interactive and comprehensive view of our sales perform
 ---
 Customer segmentation visualization involves the graphical representation of customer data to elucidate patterns, trends, and relationships within the customer base. Effective visualization enables organizations to inform data-driven decisions, optimize marketing initiatives, and cultivate personalized customer experiences. 
 
+ 1.    Subscription Types: This report indicates the importance of understanding subscription type preferences. Key takeaways include which includes, the most popular subscription type, the highest revenue  generation and the customers with the highest engagement rates. 
+   2.    Count of Customer-ID by subscription type: Analyze customer distribution across subscription types and regions to inform targeted marketing, optimize product offerings, and enhance customer experiences.
+   4.     Count of subscription by Cancellation: Cancellation helps understand customers needs inother to Monitor subscription cancellations to evaluate performance, identify vulnerabilities, enhance subscription experiences, reduce churn, inform retention strategies and data-driven decisions.
+   5.    Regional by Subscription Types: This report Analyze customer distributions across subscription types and regions to inform targeted marketing, optimize product offerings, and enhance customer experiences, satisfaction and retention.
+
+
+
+
 
 ### CONCLUSION 
 ---
 The Power BI analysis provides actionable insights into customer segmentation, revealing opportunities to optimize marketing, enhance retention, and drive growth through targeted strategies based on subscription type, customer behavior, and demographic patterns. 
 
-   1.    Subscription Types: This report indicates the importance of understanding subscription type preferences. Key takeaways include which includes, the most popular subscription type, the highest revenue  generation and the customers with the highest engagement rates. 
-   2.    Count of subscription by Cancellation: Cancellation helps understand customers needs inother to Monitor subscription cancellations to evaluate performance, identify vulnerabilities, enhance subscription experiences, reduce churn, inform retention strategies and data-driven decisions.
-   3.   Count of Customer-ID by subscription type: Analyze customer distribution across subscription types and regions to inform targeted marketing, optimize product offerings, and enhance customer experiences.
-   4.    Regional by Subscription Types: This report Analyze customer distributions across subscription types and regions to inform targeted marketing, optimize product offerings, and enhance customer experiences, satisfaction and retention.
-
-
-
-
+  
 
 
 
