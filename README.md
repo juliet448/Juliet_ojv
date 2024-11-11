@@ -1,6 +1,6 @@
 ### juliet448-B-Analyst 
 ---
-### LITA CAPSTONE PROJECT INTRODUCTION/CUSTOMER SEGMENTATION SERVICES 
+### INTRODUCTION TO LITA CAPSTONE PROJECT/CUSTOMER SEGMENTATION SERVICES 
 ---
 Introduction to capstone project on data anlysis: This capstone project displays the application of data analysis methodologies using excel,  SQL and power BI and leveraging real-world data sets. This project showcases expertise in data manipulation, analysis, and visualization. In today's fast-paced, data-driven economy, organizations rely on accurate and timely, uncover meaningful insights to inform strategic decisions-making, drive growth, and maintain competitiveness.
 
@@ -133,7 +133,6 @@ These datasets provide a comprehensive understanding of sales performance, custo
 
 <img width="377" alt="Average sub duration pivot" src="https://github.com/user-attachments/assets/8067127d-f155-4e48-814b-d181f0247815">
 
-
 ---
 ### MOST POPULAR SUBCRIPTION TYPES
 
@@ -149,4 +148,73 @@ These datasets provide a comprehensive understanding of sales performance, custo
 ---
 ### OTHER INTERESTING REPORTS
 <img width="711" alt="Interesting report pivot" src="https://github.com/user-attachments/assets/d79a9de9-3e39-4870-8f1c-664a11310445">
+
+---
+### PROJECT 2B: SEGMENTATION CUSTOMERS FOR A SUBSCRIPTION  USING SQL
+---
+In order to find trends and segmentation, this project entails analyzing customert data for a subscription service. Understanding consumer behavior, monitoring subscription typess, and seeing important patterns in cancellations and renewals are your objectives. For this project, a dataset is analyzed and valuable insights are extracted using SQL (Structured Query Language). The goal is to demonstrate how SQL may be used to query, manipulate, and change data in order to detect trends, solve business problems, and produce useful results. Data filtering, aggregation, joins, and subqueries are just a few of the SQL commands and strategies that will be used while working with a structured database.
+
+###  TOOLS USE
+SQL Management Studio by Microsoft
+
+### EXPLORATORY DATA ANALYSIS 
+---
+Create queries based on the following questions to glean important insights.
+o Retrieve the total sales for each product category.
+o Find the number of sales transactions in each region.
+o Find the highest-selling product by total sales value.
+o Calculate total revenue per product.
+o Calculate monthly sales totals for the current year.
+o Find the top 5 customers by total purchase amount.
+o Calculate the percentage of total sales contributed by each region.
+o Identify products with no sales in the last quarter.
+
+### QUERIE AND OUTPUT
+
+### SEE EARLIER UPLOADS SQL
+
+### PROJECT 2C: CUSTOMER SEGMENTATION FOR A SUBSCRIPTION SERVICES USING POERBI
+---
+In order to better understand customer behavior, track subscription types, and identify important trends in cancellations and renewals, I'm building a dashboard that visualizes the insights found in SQL and Excel. 
+
+### TOOLS USED
+---
+Microsoft PowerBI Desktop
+
+### Dashboard Overview
+---
+This dashboard offers an interactive and comprehensive view of our sales performance, top-performing products, and regional sales breakdown. By combining insights from SQL queries and Excel analysis, we've divided the dashboard into three main sections to support strategic decision-making and uncover trends within our customer base. A. CUSTOMER SUBSCRIPTION OVERVIEW Total Revenue: This is the total revenue generated from all customer subscriptions; calculating this metric aids in understanding the overall financial impact. 
+
+### A. CUSTOMER SUBSCRIPTION OVERVIEW
+
+----
+    1.    Total Revenue:  A key indicator of subscription success, tracking total income from customer subscriptions, thereby measuring financial impact, identify profitable segments and drive revenue growth.
+    2.    Subscription Duration Analysis: Provides insights into customer loyalty and subscription efficacy by examining minimum, maximum, and overall duration,  retention and effectiveness. 
+    3.     Total Subscription Count: These are the Overall active and completed subscriptions, informing strategies on customer growth, retention, and monetization.
+    4.     Average revenue per subscription: A key performance indicator measuring average revenue generated per subscription, enabling evaluation of customer lifetime value and segment profitability, and Uncover the Revenue Potential of Each Customer. 
+
+
+### VISUALISATION OF CUSTOMER SEGMENTATION
+---
+Customer segmentation visualization involves the graphical representation of customer data to elucidate patterns, trends, and relationships within the customer base. Effective visualization enables organizations to inform data-driven decisions, optimize marketing initiatives, and cultivate personalized customer experiences. 
+
+
+### CONCLUSION 
+---
+The Power BI analysis provides actionable insights into customer segmentation, revealing opportunities to optimize marketing, enhance retention, and drive growth through targeted strategies based on subscription type, customer behavior, and demographic patterns. 
+
+   1.    Subscription Types: This report indicates the importance of understanding subscription type preferences. Key takeaways include which includes, the most popular subscription type, the highest revenue  generation and the customers with the highest engagement rates. 
+   2.    Count of subscription by Cancellation: Cancellation helps understand customers needs inother to Monitor subscription cancellations to evaluate performance, identify vulnerabilities, enhance subscription experiences, reduce churn, inform retention strategies and data-driven decisions.
+   3.   Count of Customer-ID by subscription type: Analyze customer distribution across subscription types and regions to inform targeted marketing, optimize product offerings, and enhance customer experiences.
+   4.    Regional by Subscription Types: This report Analyze customer distributions across subscription types and regions to inform targeted marketing, optimize product offerings, and enhance customer experiences, satisfaction and retention.
+
+
+
+
+
+
+
+
+
+
 
