@@ -170,8 +170,42 @@ o Calculate the percentage of total sales contributed by each region.
 o Identify products with no sales in the last quarter.
 
 ### QUERIE AND OUTPUT
+---
 
-### SEE EARLIER UPLOADS SQL
+Subscription Report by Region
+---
+- Total Subscriptions: 33287
+- East Region: This region has the highest subscriptions with total value point of  8488 and a percentage of 25.5%
+-  South Region: This region is the second highest subscriptions with total value point of  8446 and a percentage of 25.3%
+-  North Region: This region has declining subscriptions sales with total value point of  8433 and a percentage of 25.2%
+- West Region: Has the lowest subscriptions value point 8420 with 25.0%
+
+ ### IN CONCLUSION
+ ---
+This report analyzes subscription data across four regions: East, South, North, and West. The East region leads with 8488 subscriptions, followed closely by the South region with 8446 subscriptions. Targeted Marketing by focusing on East and South regions, Optimize resources based on regional subscription trends, Continuous tracking of subscription growth to adjust business strategies.
+
+<img width="960" alt="Retrieve sales 4 each product category SQL" src="https://github.com/user-attachments/assets/f8aaa10e-38fd-4feb-8c43-35874c2213b5">
+
+
+### find the most popular subscription type by the number of customers.
+---
+. Basic subscriptions lead with 50.6% market share.
+which makes Basic subscription the the most popular choice.
+2. Premium subscriptions account for 25.3% and offer opportunities for upselling.
+3. Standard subscriptions represent 25.1% and requires targeted marketing.
+
+### CONCLUSION
+---
+The subscription type analysis provides valuable insights into the distribution of Basic, Premium, and Standard subscriptions. The key findings and recommendations outlined in this report will enable informed decision-making to optimize subscription-based models and drive business growth.
+Company is therefore advised to tailor marketing strategies to regional preferences, analyse subscription type quarterly. Secondly, imlplement and enhance short-term Basic subscription features and get feedback surveys from customer,forthly,  offer targeted promotions for Premium subscriptions at the minimum of 4-6months and exploring new subscription models, continuously monitor subscription trends. By implementing these recommendations, businesses can optimize their subscription-based models, drive growth, and maintain a competitive edge in the market.
+
+ 
+.
+
+
+
+<img width="960" alt="Popular sub Type" src="https://github.com/user-attachments/assets/7dc7ecb3-da37-4982-9b47-47423bbc67d1">
+
 
 ### PROJECT 2C: CUSTOMER SEGMENTATION FOR A SUBSCRIPTION SERVICES USING POERBI
 ---
