@@ -1,4 +1,4 @@
-### juliet448-B-Analyst 
+<img width="960" alt="Cancelled sub 6mnths" src="https://github.com/user-attachments/assets/e8fdbf38-bb9b-4232-a81d-143862ccf7a3">### juliet448-B-Analyst 
 ---
 ### INTRODUCTION TO LITA CAPSTONE PROJECT/CUSTOMER SEGMENTATION SERVICES 
 ---
@@ -173,11 +173,11 @@ o Identify products with no sales in the last quarter.
 ---
 
 Subscription Report by Region
----
+--- 
 - Total Subscriptions: 33287
 - East Region: This region has the highest subscriptions with total value point of  8488 and a percentage of 25.5%
--  South Region: This region is the second highest subscriptions with total value point of  8446 and a percentage of 25.3%
--  North Region: This region has declining subscriptions sales with total value point of  8433 and a percentage of 25.2%
+- South Region: This region is the second highest subscriptions with total value point of 8446 and a percentage of 25.3%
+- North Region: This region has declining subscriptions sales with total value point of  8433 and a percentage of 25.2%
 - West Region: Has the lowest subscriptions value point 8420 with 25.0%
 
  ### IN CONCLUSION
@@ -186,25 +186,47 @@ This report analyzes subscription data across four regions: East, South, North, 
 
 <img width="960" alt="Retrieve sales 4 each product category SQL" src="https://github.com/user-attachments/assets/f8aaa10e-38fd-4feb-8c43-35874c2213b5">
 
-
-### find the most popular subscription type by the number of customers.
+### SUBSCRIPTION TYPE REPORT.
 ---
-. Basic subscriptions lead with 50.6% market share.
-which makes Basic subscription the the most popular choice.
-2. Premium subscriptions account for 25.3% and offer opportunities for upselling.
-3. Standard subscriptions represent 25.1% and requires targeted marketing.
+- Basic subscriptions lead with 50.6% market share.
+which makes Basic subscription the the most popular choice.-
+- Premium subscriptions account for 25.3% and offer opportunities for upselling.
+- Standard subscriptions represent 25.1% and requires targeted marketing.
 
 ### CONCLUSION
 ---
 The subscription type analysis provides valuable insights into the distribution of Basic, Premium, and Standard subscriptions. The key findings and recommendations outlined in this report will enable informed decision-making to optimize subscription-based models and drive business growth.
 Company is therefore advised to tailor marketing strategies to regional preferences, analyse subscription type quarterly. Secondly, imlplement and enhance short-term Basic subscription features and get feedback surveys from customer,forthly,  offer targeted promotions for Premium subscriptions at the minimum of 4-6months and exploring new subscription models, continuously monitor subscription trends. By implementing these recommendations, businesses can optimize their subscription-based models, drive growth, and maintain a competitive edge in the market.
 
- 
-.
-
-
-
 <img width="960" alt="Popular sub Type" src="https://github.com/user-attachments/assets/7dc7ecb3-da37-4982-9b47-47423bbc67d1">
+
+### CANCELLATION REPORT (LAST 6 MONTHS)
+
+---
+This report analyzes the subscription trends for Basic, Premium, and Standard plans over the last 6 months, highlighting key metrics and insights been that there were most popular and potential growth which has grew with competition with consisten growth.
+
+### Key Findings
+----
+This report provides an overview of all subscriptions, including Basic, Premium, and Standard plans, highlighting key metrics and trends from above analysis and queries it appears that subscription were carriedout consistently. we advise that company should maintain competitive pricing for Basic plan, Enhance Premium plan features while targete marketing for Standard plan for optimum for driven business intellegence. 
+
+<img width="960" alt="Cancelled sub 6mnths" src="https://github.com/user-attachments/assets/14948ee1-a5a8-4e79-936c-55abff405fcc">
+
+### AVERAGE SUBSCRIPTION DURATION  ANALYSIS For All CUSTOMERS 
+---
+- FINDINGS
+    1.     The average subscription duration for all customers is 12 months.
+    2.     This indicates a stable customer base with a consistent renewal rate.
+
+### CONCLUSION
+---
+The average subscription duration analysis revealed valuable insights into customer behavior and preferences. The findings indicate a stable customer base with a consistent renewal rate. Therefore, Offer flexible plan options, increase customer support and develop targeted marketing campaigns. Conscienciously and continuously monitor subscription trends, conduct quarterly analyse and refine marketing strategiesa, improved customer retention, increased revenue growth, increase customer satisfaction.
+This comprehensive analysis provides a solid foundation for data-driven decision-making, enabling businesses to optimize their subscription models and improve overall customer experience.
+
+<img width="960" alt="Ave Sub Customer" src="https://github.com/user-attachments/assets/1087f2a0-bdef-4e6f-8a17-83ac2f91335e">
+
+### find customers with subscriptions longer than 12 months.
+
+===
 
 
 ### PROJECT 2C: CUSTOMER SEGMENTATION FOR A SUBSCRIPTION SERVICES USING POERBI
