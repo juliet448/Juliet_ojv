@@ -239,7 +239,7 @@ This data-driven dashboard consolidates sales information, leveraging Excel and 
     3.     Total Subscription Count: These are the Overall active and completed subscriptions, informing strategies on customer growth, retention, and monetization.
     4.     Average revenue per subscription: A key performance indicator measuring average revenue generated per subscription, enabling evaluation of customer lifetime value and segment profitability, and Uncover the Revenue Potential of Each Customer. 
 
-<img width="637" alt="image" src="https://github.com/user-attachments/assets/633e4170-3efc-49f7-bc4f-69b9c6207cbc">
+<img width="660" alt="image" src="https://github.com/user-attachments/assets/0aaa9430-e3e7-4e18-afbf-6a2217be0ffe">
 
 ### VISUALISATION OF CUSTOMER SEGMENTATION
 ---
@@ -250,7 +250,7 @@ Customer segmentation visualization involves the graphical representation of cus
    4.     Count of subscription by Cancellation: Cancellation helps understand customers needs inother to Monitor subscription cancellations to evaluate performance, identify vulnerabilities, enhance subscription experiences, reduce churn, inform retention strategies and data-driven decisions.
    5.    Regional by Subscription Types: This report Analyze customer distributions across subscription types and regions to inform targeted marketing, optimize product offerings, and enhance customer experiences, satisfaction and retention.
 
-<img width="696" alt="image" src="https://github.com/user-attachments/assets/83628a0b-ff01-48b6-939f-0b543cbb0fca">
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/4e6b7094-7909-4ddb-a4e4-a060c6c12478">
 
 ### AVERAGE OF SUBSCRIPTIO MONTH
 
