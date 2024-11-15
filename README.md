@@ -108,40 +108,32 @@ These datasets provide a comprehensive understanding of sales performance, custo
 ### DATA VISUALISATION
 ---
 
-### SUBSCRIPTION PATTERN
+### SUBSCRIPTION STYLE
 -
 ### PIVOT TABLE
 ---
 - SUBSCRIPTION COUNT
 <img width="960" alt="subcription count pivot" src="https://github.com/user-attachments/assets/61c6fd42-bfcc-4e34-bd86-fa1975d7e604">
 
-
 - REVENUE BY REGION
 <img width="960" alt="Revenue by Region pivot" src="https://github.com/user-attachments/assets/8daee7e4-f469-48b8-a2c7-0e14f8879723">
-
 
 - AVERAGE REVENUE BY SUBSCRIPTION
 <img width="258" alt="image" src="https://github.com/user-attachments/assets/b2a02c8e-94f1-4861-8616-358151f1d4e3">
 
-
 - The Average Subscription Duration and the Most Popular type
 <img width="377" alt="Average sub duration pivot" src="https://github.com/user-attachments/assets/7d22362a-8bd6-4319-b2a5-19896068e0bd">
 
-
 <img width="224" alt="Ave sub duratio excel" src="https://github.com/user-attachments/assets/56100a4e-9735-498d-8daf-d96b10a96d01">
-
 
 <img width="377" alt="Average sub duration pivot" src="https://github.com/user-attachments/assets/8067127d-f155-4e48-814b-d181f0247815">
 
 ---
 ### MOST POPULAR SUBCRIPTION TYPES
 
-
 <img width="208" alt="MOST POPULAR SUB  Excelpng" src="https://github.com/user-attachments/assets/fe387fe8-24ea-4319-a071-e93b86325a2f">
 
-
 <img width="194" alt="MOST POPULAR SUB Excel fn png" src="https://github.com/user-attachments/assets/c2b58005-fa38-4a4e-a707-ecd418af4500">
-
 
 <img width="960" alt="most populous pivot" src="https://github.com/user-attachments/assets/a879598d-d563-4ffb-b0d9-52172a350cfb">
 
@@ -171,7 +163,6 @@ o Identify products with no sales in the last quarter.
 
 ### QUERIE AND OUTPUT
 ---
-
 Subscription Report by Region
 --- 
 - Total Subscriptions: 33287
@@ -203,11 +194,11 @@ Company is therefore advised to tailor marketing strategies to regional preferen
 ### CANCELLATION REPORT (LAST 6 MONTHS)
 
 ---
-This report analyzes the subscription trends for Basic, Premium, and Standard plans over the last 6 months, highlighting key metrics and insights been that there were most popular and potential growth which has grew with competition with consisten growth.
+This compreheensive analyzes shows that the subscription trends for Basic, Premium, and Standard plans over the last 6 months, highlighting key metrics and insights been that there were most popular and potential growth and has grew with competition with consisten growth.
 
 ### Key Findings
 ----
-This report provides an overview of all subscriptions, including Basic, Premium, and Standard plans, highlighting key metrics and trends from above analysis and queries it appears that subscription were carriedout consistently. we advise that company should maintain competitive pricing for Basic plan, Enhance Premium plan features while targete marketing for Standard plan for optimum for driven business intellegence. 
+This analysis provides an overview of all subscriptions, including Basic, Premium, and Standard plans, highlighting key metrics and trends from above analysis and queries it appears that subscription were carriedout consistently. we advise that company should maintain competitive pricing for Basic plan, Enhance Premium plan features while target marketing for Standard plan for optimum,  informed driven business intellegence. 
 
 <img width="960" alt="Cancelled sub 6mnths" src="https://github.com/user-attachments/assets/14948ee1-a5a8-4e79-936c-55abff405fcc">
 
@@ -219,15 +210,15 @@ This report provides an overview of all subscriptions, including Basic, Premium,
 
 ### CONCLUSION
 ---
-The average subscription duration analysis revealed valuable insights into customer behavior and preferences. The findings indicate a stable customer base with a consistent renewal rate. Therefore, Offer flexible plan options, increase customer support and develop targeted marketing campaigns. Conscienciously and continuously monitor subscription trends, conduct quarterly analyse and refine marketing strategiesa, improved customer retention, increased revenue growth, increase customer satisfaction.
-This comprehensive analysis provides a solid foundation for data-driven decision-making, enabling businesses to optimize their subscription models and improve overall customer experience.
+The average subscription duration analysis revealed valuable insights into customer behavior and preferences. The findings indicate a stable customer base with a consistent renewal rate. Therefore, Offer flexible plan options, increase customer support and develop targeted marketing campaigns. Conscienciously and continuously monitor subscription trends, conduct quarterly analyse and refine marketing strategies, improved customer retention, increased revenue growth, increase customer satisfaction.
+This comprehensive analysis provides a solid foundation for data-driven decision-making, enabling businesses to optimize their subscription models and improve overall customer experience and satisfaction.
 
 <img width="960" alt="Ave Sub Customer" src="https://github.com/user-attachments/assets/1087f2a0-bdef-4e6f-8a17-83ac2f91335e">
 
-### find customers with subscriptions longer than 12 months.
-
+### CUSTOMERS SUBSCRIPTIONS LONGER THAN 12 MONTHS  REPORT
 ===
-
+There is no subscription longer than 12 months, this is indicating that all subscription were subscribed within the time frame, though the subscriptions were constant. 
+Therefore, company is advised to Offer flexible plan options, increase customer support and develop targeted marketing campaigns, refine marketing strategies, increase customers satisfaction and develop new models  with discount for a longer period to attract attension and enhancing maximum customer experience, satisfactions driving informed business intellegent. 
 
 ### PROJECT 2C: CUSTOMER SEGMENTATION FOR A SUBSCRIPTION SERVICES USING POERBI
 ---
@@ -239,16 +230,14 @@ Microsoft PowerBI Desktop
 
 ### Dashboard Overview
 ---
-This dashboard offers an interactive and comprehensive view of our sales performance, top-performing products, and regional sales breakdown. By combining insights from SQL queries and Excel analysis, we've divided the dashboard into three main sections to support strategic decision-making and uncover trends within our customer base. A. CUSTOMER SUBSCRIPTION OVERVIEW Total Revenue: This is the total revenue generated from all customer subscriptions; calculating this metric aids in understanding the overall financial impact. 
+This data-driven dashboard consolidates sales information, leveraging Excel and SQL capabilities to deliver actionable intelligence on sales performance, product trends, and customer geography.
 
 ### A. CUSTOMER SUBSCRIPTION OVERVIEW
-
 ----
     1.    Total Revenue:  A key indicator of subscription success, tracking total income from customer subscriptions, thereby measuring financial impact, identify profitable segments and drive revenue growth.
     2.    Subscription Duration Analysis: Provides insights into customer loyalty and subscription efficacy by examining minimum, maximum, and overall duration,  retention and effectiveness. 
     3.     Total Subscription Count: These are the Overall active and completed subscriptions, informing strategies on customer growth, retention, and monetization.
     4.     Average revenue per subscription: A key performance indicator measuring average revenue generated per subscription, enabling evaluation of customer lifetime value and segment profitability, and Uncover the Revenue Potential of Each Customer. 
-
 
 ### VISUALISATION OF CUSTOMER SEGMENTATION
 ---
@@ -258,10 +247,6 @@ Customer segmentation visualization involves the graphical representation of cus
    2.    Count of Customer-ID by subscription type: Analyze customer distribution across subscription types and regions to inform targeted marketing, optimize product offerings, and enhance customer experiences.
    4.     Count of subscription by Cancellation: Cancellation helps understand customers needs inother to Monitor subscription cancellations to evaluate performance, identify vulnerabilities, enhance subscription experiences, reduce churn, inform retention strategies and data-driven decisions.
    5.    Regional by Subscription Types: This report Analyze customer distributions across subscription types and regions to inform targeted marketing, optimize product offerings, and enhance customer experiences, satisfaction and retention.
-
-
-
-
 
 ### CONCLUSION 
 ---
