@@ -239,6 +239,8 @@ This data-driven dashboard consolidates sales information, leveraging Excel and 
     3.     Total Subscription Count: These are the Overall active and completed subscriptions, informing strategies on customer growth, retention, and monetization.
     4.     Average revenue per subscription: A key performance indicator measuring average revenue generated per subscription, enabling evaluation of customer lifetime value and segment profitability, and Uncover the Revenue Potential of Each Customer. 
 
+<img width="637" alt="image" src="https://github.com/user-attachments/assets/633e4170-3efc-49f7-bc4f-69b9c6207cbc">
+
 ### VISUALISATION OF CUSTOMER SEGMENTATION
 ---
 Customer segmentation visualization involves the graphical representation of customer data to elucidate patterns, trends, and relationships within the customer base. Effective visualization enables organizations to inform data-driven decisions, optimize marketing initiatives, and cultivate personalized customer experiences. 
@@ -247,6 +249,14 @@ Customer segmentation visualization involves the graphical representation of cus
    2.    Count of Customer-ID by subscription type: Analyze customer distribution across subscription types and regions to inform targeted marketing, optimize product offerings, and enhance customer experiences.
    4.     Count of subscription by Cancellation: Cancellation helps understand customers needs inother to Monitor subscription cancellations to evaluate performance, identify vulnerabilities, enhance subscription experiences, reduce churn, inform retention strategies and data-driven decisions.
    5.    Regional by Subscription Types: This report Analyze customer distributions across subscription types and regions to inform targeted marketing, optimize product offerings, and enhance customer experiences, satisfaction and retention.
+
+<img width="696" alt="image" src="https://github.com/user-attachments/assets/83628a0b-ff01-48b6-939f-0b543cbb0fca">
+
+### AVERAGE OF SUBSCRIPTIO MONTH
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/a4850f6f-4264-48a8-a545-20f610e1460f">
+
+
 
 ### CONCLUSION 
 ---
