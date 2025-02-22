@@ -68,7 +68,6 @@ This project focuses on analyzing customer data from a subscription service to i
     2.    Calculate the average subscription duration and determine the most popular subscription type
     3.    Create additional insightful reports as needed.
 
-
 ### DATA SOURCES
 ---
 Data Sources:
@@ -107,7 +106,6 @@ These datasets provide a comprehensive understanding of sales performance, custo
 
 ### DATA VISUALISATION
 ---
-
 ### SUBSCRIPTION STYLE
 -
 ### PIVOT TABLE
@@ -117,7 +115,6 @@ These datasets provide a comprehensive understanding of sales performance, custo
 
 - REVENUE BY REGION
 <img width="960" alt="Revenue by Region pivot" src="https://github.com/user-attachments/assets/8daee7e4-f469-48b8-a2c7-0e14f8879723">
-
 - AVERAGE REVENUE BY SUBSCRIPTION
 <img width="258" alt="image" src="https://github.com/user-attachments/assets/b2a02c8e-94f1-4861-8616-358151f1d4e3">
 
@@ -127,7 +124,6 @@ These datasets provide a comprehensive understanding of sales performance, custo
 <img width="224" alt="Ave sub duratio excel" src="https://github.com/user-attachments/assets/56100a4e-9735-498d-8daf-d96b10a96d01">
 
 <img width="377" alt="Average sub duration pivot" src="https://github.com/user-attachments/assets/8067127d-f155-4e48-814b-d181f0247815">
-
 ---
 ### MOST POPULAR SUBCRIPTION TYPES
 
@@ -148,7 +144,6 @@ In order to find trends and segmentation, this project entails analyzing custome
 
 ###  TOOLS USE
 SQL Management Studio by Microsoft
-
 ### EXPLORATORY DATA ANALYSIS 
 ---
 Create queries based on the following questions to glean important insights.
@@ -171,7 +166,7 @@ Subscription Report by Region
 - North Region: This region has declining subscriptions sales with total value point of  8433 and a percentage of 25.2%
 - West Region: Has the lowest subscriptions value point 8420 with 25.0%
 
- ### IN CONCLUSION
+ # IN CONCLUSION
  ---
 This report analyzes subscription data across four regions: East, South, North, and West. The East region leads with 8488 subscriptions, followed closely by the South region with 8446 subscriptions. Targeted Marketing by focusing on East and South regions, Optimize resources based on regional subscription trends, Continuous tracking of subscription growth to adjust business strategies.
 
@@ -179,8 +174,7 @@ This report analyzes subscription data across four regions: East, South, North, 
 
 ### SUBSCRIPTION TYPE REPORT.
 ---
-- Basic subscriptions lead with 50.6% market share.
-which makes Basic subscription the the most popular choice.-
+- Basic subscriptions lead with 50.6% market share which makes basic subscription the the most popular choice.-
 - Premium subscriptions account for 25.3% and offer opportunities for upselling.
 - Standard subscriptions represent 25.1% and requires targeted marketing.
 
@@ -192,7 +186,6 @@ Company is therefore advised to tailor marketing strategies to regional preferen
 <img width="960" alt="Popular sub Type" src="https://github.com/user-attachments/assets/7dc7ecb3-da37-4982-9b47-47423bbc67d1">
 
 ### CANCELLATION REPORT (LAST 6 MONTHS)
-
 ---
 This compreheensive analyzes shows that the subscription trends for Basic, Premium, and Standard plans over the last 6 months, highlighting key metrics and insights been that there were most popular and potential growth and has grew with competition with consisten growth.
 
@@ -234,28 +227,28 @@ This data-driven dashboard consolidates sales information, leveraging Excel and 
 
 ### A. CUSTOMER SUBSCRIPTION OVERVIEW
 ----
-    1.    Total Revenue:  A key indicator of subscription success, tracking total income from customer subscriptions, thereby measuring financial impact, identify profitable segments and drive revenue growth.
-    2.    Subscription Duration Analysis: Provides insights into customer loyalty and subscription efficacy by examining minimum, maximum, and overall duration,  retention and effectiveness. 
-    3.     Total Subscription Count: These are the Overall active and completed subscriptions, informing strategies on customer growth, retention, and monetization.
-    4.     Average revenue per subscription: A key performance indicator measuring average revenue generated per subscription, enabling evaluation of customer lifetime value and segment profitability, and Uncover the Revenue Potential of Each Customer. 
+- Total Revenue:  A key indicator of subscription success, tracking total income from customer subscriptions, thereby measuring financial impact, identify profitable segments and drive revenue growth.
+- Subscription Duration Analysis: Provides insights into customer loyalty and subscription efficacy by examining minimum, maximum, and overall duration,  retention and effectiveness. 
+- Total Subscription Count: These are the Overall active and completed subscriptions, informing strategies on customer growth, retention, and monetization.
+- Average revenue per subscription: A key performance indicator measuring average revenue generated per subscription, enabling evaluation of customer lifetime value and segment profitability, and Uncover the Revenue Potential of Each Customer. 
 
 <img width="660" alt="image" src="https://github.com/user-attachments/assets/0aaa9430-e3e7-4e18-afbf-6a2217be0ffe">
 
 ### VISUALISATION OF CUSTOMER SEGMENTATION
 ---
 Customer segmentation visualization involves the graphical representation of customer data to elucidate patterns, trends, and relationships within the customer base. Effective visualization enables organizations to inform data-driven decisions, optimize marketing initiatives, and cultivate personalized customer experiences. 
-
- 1.    Subscription Types: This report indicates the importance of understanding subscription type preferences. Key takeaways include which includes, the most popular subscription type, the highest revenue  generation and the customers with the highest engagement rates. 
-   2.    Count of Customer-ID by subscription type: Analyze customer distribution across subscription types and regions to inform targeted marketing, optimize product offerings, and enhance customer experiences.
-   4.     Count of subscription by Cancellation: Cancellation helps understand customers needs inother to Monitor subscription cancellations to evaluate performance, identify vulnerabilities, enhance subscription experiences, reduce churn, inform retention strategies and data-driven decisions.
-   5.    Regional by Subscription Types: This report Analyze customer distributions across subscription types and regions to inform targeted marketing, optimize product offerings, and enhance customer experiences, satisfaction and retention.
+- Subscription Types: This report indicates the importance of understanding subscription type preferences. Key takeaways include which includes, the most popular subscription type, the highest revenue  generation and the customers with the highest engagement rates. 
+- Count of Customer-ID by subscription type: Analyze customer distribution across subscription types and regions to inform targeted marketing, optimize product offerings, and enhance customer experiences.
+- Count of subscription by Cancellation: Cancellation helps understand customers needs inother to Monitor subscription cancellations to evaluate performance, identify vulnerabilities, enhance subscription experiences, reduce churn, inform retention strategies and data-driven decisions.
+- Regional by Subscription Types: This report Analyze customer distributions across subscription types and regions to inform targeted marketing, optimize product offerings, and enhance customer experiences, satisfaction and retention.
 
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/4e6b7094-7909-4ddb-a4e4-a060c6c12478">
 
 ### AVERAGE OF SUBSCRIPTION MONTH
 ---
-
 <img width="215" alt="image" src="https://github.com/user-attachments/assets/a757bc98-efe8-4661-b1b0-cdaedcdeb07f" />
+
+---
 <img width="179" alt="image" src="https://github.com/user-attachments/assets/6d479db5-e315-41c9-aab5-d6fd61a30871" />
 
 ---
@@ -271,53 +264,111 @@ Customer segmentation visualization involves the graphical representation of cus
 <img width="604" alt="image" src="https://github.com/user-attachments/assets/81be5e33-415f-4d58-bda8-951da23113e9" />
 
 # Average Subscription Report
-
 # Executive Summary
 This report provides a comprehensive analysis of the average subscription growth by month, categorized by subscription type: Basic, Premium, and Standard. The data reveals an average monthly subscription of 12 million.
 
-# Key Findings
+# FINDINGS
+---
 Average Monthly Subscription amount to 12,000,000 
 Basic Subscriptions is 203,052 
 Premium Subscriptions is 101,352 
 Standard Subscriptions is 101,104 
-
-# Analysis
+# ANALYSIS
+---
 The average subscription per month remains steady at 12 million across all 12 months. The breakdown by subscription type reveals:
 - Basic: 203,052 subscribers
 - Premium: 101,352 subscribers
 - Standard: 101,104 subscribers
-# Recommendation
+  
+# RECOMMENDATION
+---
 1. Optimize Basic Subscription: Enhance Basic subscription features to increase adoption.
 2. Promote Premium Subscription: Develop targeted marketing campaigns to promote Premium subscription benefits.
 3. Improve Standard Subscription: Refine Standard subscription features to increase retention.
-
-# Methodology
+# METHODOLOGY
+---
 This report is based on data collected over a 12-month period. The average monthly subscription was calculated by dividing the total subscriptions by 12.
-
-# Limitations
+# LIMITATIONS
+---
 This report shows consistent data collection and reporting methods throughout the 12-month period. External factors influencing subscription growth are not considered in this analysis.
-
-# Conclusion
+# CONCLUSIONS
+---
 This report provides valuable insights into the average subscription growth by month, categorized by subscription type. By understanding subscriber behavior, we can optimize our strategies to drive continued growth.
 
+### MAP OF NIGERIA 
+<img width="603" alt="image" src="https://github.com/user-attachments/assets/834c1e49-2c48-4d7c-a6a2-b96a0f28e027" />
+---
+<img width="631" alt="image" src="https://github.com/user-attachments/assets/f68d1ed8-c50e-418f-a9fb-705502550dde" />
+---
+ANALYSIS OF THE MAP OF NIGERIA USING ITS 36 STATES AND FEDERAL CAPITAL TERRITORY (FCT)
+---
+# Geopolitical Zones
+Nigeria is divided into six geopolitical zones, each comprising several states:
+# North-Central Zone
+- Benue - Kogi - Kwara - Nasarawa
+- Niger - Plateau - FCT
+# North-East Zone
+- Adamawa - Bauchi - Borno
+- Gombe - Taraba - Yobe
+# North-West Zone
+- Jigawa - Kaduna - Kano-
+- Katsina - Kebbi - Sokoto - Zamfara
+# South-East Zone
+- Abia - Anambra - Ebonyi
+- Enugu - Imo
+# South-South Zone
+- Akwa Ibom - Bayelsa - Cross River
+- Delta - Edo - Rivers
+# South-West Zone
+- Ekiti - Lagos - Ogun
+- Ondo - Osun - Oyo
+# Regional Characteristics
+- North
+The northern region is characterized by savannas and semi-deserts, with major cities like Kano and Kaduna.
+- South
+The southern region is characterized by tropical forests and swamplands, with major cities like Lagos and Port Harcourt.
+
+- East
+The eastern region is mountainous, with the Obudu Plateau and the Cameroon border.
+
+- West
+The western region is coastal, with the Gulf of Guinea and the Benin border.
+
+# Conclusion
+This analysis provides a comprehensive overview of Nigeria's geopolitical zones, states, and regional characteristics. Understanding these characteristics is essential for effective governance, economic development, and social cohesion.
 
 ### HR ANALYSIS TRACKER
 ---
 <img width="595" alt="image" src="https://github.com/user-attachments/assets/4f252838-caf9-4b0c-be32-9566733811b5" />
 
+# Attrition Analysis
+- The overall attrition rate is 16%, which is relatively high.
+- The R&D department has the highest attrition rate (56.12%), followed by Sales (92% average, but with a smaller sample size).
+- The HR department has the lowest attrition rate (5.06%).
 
+# Demographic Analysis
+- The majority of employees are between 25-34 years old (268 males, 174 females) and 35-44 years old (272 males, 182 females).
+- The attrition rate is highest among employees aged 25-34 (112).
+- The lowest attrition rate is among employees over 55 (11).
 
+# Employee Satisfaction
+- The employee satisfaction survey results are mixed, with 46 employees dissatisfied, 73 satisfied, 66 very dissatisfied, and 52 very satisfied.
 
-
-### CONCLUSION 
+# FINDINGS
 ---
-The Power BI analysis provides actionable insights into customer segmentation, revealing opportunities to optimize marketing, enhance retention, and drive growth through targeted strategies based on subscription type, customer behavior, and demographic patterns. 
+- High attrition rates, especially in R&D and Sales.
+- Employees are predominantly between 25-34 years old.
+- Mixed employee satisfaction results with a notable proportion of employees expressing dissatisfaction.
 
-  
+# RECOMMENDATIONS
+---
+1. Implement targeted retention strategies for high-risk departments.
+2. Enhance employee satisfaction through focused initiatives while aim at improving employees satisfaction.
+3. Optimize talent management with targeted recruitment and retention.
 
+### CONCLUSION
+---
+This analysis provides a comprehensive understanding of employee trends, revealing a significant attrition rate, particularly in R&D and Sales. Demographic insights show a concentration of employees in the 25-34 age range.
 
-
-
-
-
+By addressing these areas, the organization can reduce attrition, boost employee satisfaction, and drive business success.
 
