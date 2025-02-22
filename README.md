@@ -252,9 +252,60 @@ Customer segmentation visualization involves the graphical representation of cus
 
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/4e6b7094-7909-4ddb-a4e4-a060c6c12478">
 
-### AVERAGE OF SUBSCRIPTIO MONTH
+### AVERAGE OF SUBSCRIPTION MONTH
+---
 
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/a4850f6f-4264-48a8-a545-20f610e1460f">
+<img width="215" alt="image" src="https://github.com/user-attachments/assets/a757bc98-efe8-4661-b1b0-cdaedcdeb07f" />
+<img width="179" alt="image" src="https://github.com/user-attachments/assets/6d479db5-e315-41c9-aab5-d6fd61a30871" />
+
+---
+<img width="599" alt="image" src="https://github.com/user-attachments/assets/3d0d3076-6680-4bd3-adec-15485bf6eb68" />
+
+---
+<img width="612" alt="image" src="https://github.com/user-attachments/assets/96d55fe7-c288-4517-b4fd-3b20c8d9e99e" />
+
+---
+<img width="622" alt="image" src="https://github.com/user-attachments/assets/06458381-eddf-48af-af8c-520870272acb" /> 
+
+---
+<img width="604" alt="image" src="https://github.com/user-attachments/assets/81be5e33-415f-4d58-bda8-951da23113e9" />
+
+# Average Subscription Report
+
+# Executive Summary
+This report provides a comprehensive analysis of the average subscription growth by month, categorized by subscription type: Basic, Premium, and Standard. The data reveals an average monthly subscription of 12 million.
+
+# Key Findings
+Average Monthly Subscription amount to 12,000,000 
+Basic Subscriptions is 203,052 
+Premium Subscriptions is 101,352 
+Standard Subscriptions is 101,104 
+
+# Analysis
+The average subscription per month remains steady at 12 million across all 12 months. The breakdown by subscription type reveals:
+- Basic: 203,052 subscribers
+- Premium: 101,352 subscribers
+- Standard: 101,104 subscribers
+# Recommendation
+1. Optimize Basic Subscription: Enhance Basic subscription features to increase adoption.
+2. Promote Premium Subscription: Develop targeted marketing campaigns to promote Premium subscription benefits.
+3. Improve Standard Subscription: Refine Standard subscription features to increase retention.
+
+# Methodology
+This report is based on data collected over a 12-month period. The average monthly subscription was calculated by dividing the total subscriptions by 12.
+
+# Limitations
+This report shows consistent data collection and reporting methods throughout the 12-month period. External factors influencing subscription growth are not considered in this analysis.
+
+# Conclusion
+This report provides valuable insights into the average subscription growth by month, categorized by subscription type. By understanding subscriber behavior, we can optimize our strategies to drive continued growth.
+
+
+### HR ANALYSIS TRACKER
+---
+<img width="595" alt="image" src="https://github.com/user-attachments/assets/4f252838-caf9-4b0c-be32-9566733811b5" />
+
+
 
 
 
